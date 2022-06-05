@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/takadamura-index/static/js/main.24502870.js",
+    "main.js": "/takadamura-index/static/js/main.d1822cba.js",
     "static/media/ameneko.png": "/takadamura-index/static/media/ameneko.d1fc1e798a98c0efdf7f.png",
     "static/media/avarage.png": "/takadamura-index/static/media/avarage.4e0b5ed43e083029eaf6.png",
     "static/media/takadakenshi.jpg": "/takadamura-index/static/media/takadakenshi.a94708fd224971290a65.jpg",
@@ -58,9 +58,9 @@
     "static/media/kudoumaru.jpg": "/takadamura-index/static/media/kudoumaru.e86b2957c662fd86ca5b.jpg",
     "static/media/gen.jpg": "/takadamura-index/static/media/gen.aeb2c885003d343d0db2.jpg",
     "index.html": "/takadamura-index/index.html",
-    "main.24502870.js.map": "/takadamura-index/static/js/main.24502870.js.map"
+    "main.d1822cba.js.map": "/takadamura-index/static/js/main.d1822cba.js.map"
   },
   "entrypoints": [
-    "static/js/main.24502870.js"
+    "static/js/main.d1822cba.js"
   ]
 }
